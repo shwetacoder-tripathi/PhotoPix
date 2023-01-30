@@ -1,0 +1,26 @@
+.search-bar-form {
+  justify-content: center;
+  display: flex;
+}
+.submit-button {
+  font-size: xxx-large;
+  background-color: blueviolet;
+  color: white;
+}
+.search-bar-input {
+  font-size: xxx-large;
+  background-color: aliceblue;
+}
+.photo-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+}
+.search-results-text {
+  margin-top: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: initial;
+  color: blueviolet;
+  font-size: 2rem;
+  font-style: oblique;
+}
