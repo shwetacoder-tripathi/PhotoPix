@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PhotoPix/static/css/main.1728f885.css",
+    "main.js": "/PhotoPix/static/js/main.034e2b68.js",
+    "static/js/787.43bc16bd.chunk.js": "/PhotoPix/static/js/787.43bc16bd.chunk.js",
+    "index.html": "/PhotoPix/index.html",
+    "main.1728f885.css.map": "/PhotoPix/static/css/main.1728f885.css.map",
+    "main.034e2b68.js.map": "/PhotoPix/static/js/main.034e2b68.js.map",
+    "787.43bc16bd.chunk.js.map": "/PhotoPix/static/js/787.43bc16bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1728f885.css",
+    "static/js/main.034e2b68.js"
+  ]
+}
