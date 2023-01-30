@@ -43,9 +43,6 @@ jobs:
        
       - name: Install package dependencies
         run: npm install
-        
-      - name: Create test build
-        run: npm run build
       
       - name: Deploy
         run: |
