@@ -24,7 +24,7 @@ import "./Searchbar.css";
       const photos = photosData.map((photo) => {
         const imageUrl = `https://live.staticflickr.com/${photo.server}/${photo.id}_${photo.secret}_w.jpg`;
         return (
-          <PhotoCard url={imageUrl} />
+          <PhotoCard url={imageUrl} title={ photo.title} />
         );
      });
 
