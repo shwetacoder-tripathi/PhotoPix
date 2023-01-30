@@ -1,3 +1,5 @@
+[![Continuous Integration (CI)](https://github.com/shwetacoder-tripathi/PhotoPix/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/shwetacoder-tripathi/PhotoPix/actions/workflows/CI.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
