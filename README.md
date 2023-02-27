@@ -1,4 +1,7 @@
-[![PHOTOPIX URL](https://shwetacoder-tripathi.github.io/PhotoPix/)]
+# Photo Pix - Search Anything!!
+
+[PHOTOPIX DEMO URL](https://shwetacoder-tripathi.github.io/PhotoPix/)
+
 
 [![Continuous Integration (CI)](https://github.com/shwetacoder-tripathi/PhotoPix/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/shwetacoder-tripathi/PhotoPix/actions/workflows/CI.yml)
 
